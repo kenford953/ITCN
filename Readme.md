@@ -3,6 +3,10 @@ Code for ITCN (Interpretable Triplet Capsule Network), Neurocomputing 2022, http
 
 This repository includes data, code and pretrained models for the Neurocomputing 2022 paper, " Contextual Relation Embedding and Interpretable Triplet Capsule for Inductive Relation Prediction".
 
+## Data
+The data can be downloaded in 
+Place the downloaded directories "data" and "subgraph" in the working directory "./".
+
 ## Run the Code
 ### Requirements
 - Python 3.7
